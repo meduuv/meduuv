@@ -5,14 +5,12 @@
 <br/>
 
 <a href="https://guns.lol/meduu"><img src="https://img.shields.io/badge/WEBSITE-guns.lol%2Fmeduu-000000?style=for-the-badge&labelColor=0a0a0a&color=ff2b00" /></a>
-<a href="https://discord.com/users/1499746728251887650"><img src="https://img.shields.io/badge/DISCORD-meduuv-000000?style=for-the-badge&labelColor=0a0a0a&color=ff8c00" /></a>
-<a href="https://github.com/meduuv"><img src="https://img.shields.io/badge/GITHUB-meduuv-000000?style=for-the-badge&labelColor=0a0a0a&color=ff2b00" /></a>
+<a href="https://github.com/meduuv"><img src="https://img.shields.io/badge/GITHUB-meduuv-000000?style=for-the-badge&labelColor=0a0a0a&color=ff8c00" /></a>
+<a href="https://discord.com/users/1499746728251887650"><img src="https://img.shields.io/badge/DISCORD-meduuv-000000?style=for-the-badge&labelColor=0a0a0a&color=ff2b00" /></a>
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=FF6A00&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Medu;Software+%26+Security+Developer;AI+Professional+%E2%80%A2+AI+Developer;Automation+Engineer+%E2%80%A2+Security+Tooling;Apeiron+%E2%80%A2+NIX+%E2%80%A2+Open+Source;Engineering+in+Public" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=FF6A00&center=true&vCenter=true&width=900&lines=MEDUUV+%2F+MEDU;AI+Professional+%E2%80%A2+AI+Developer;Automation+Engineer+%E2%80%A2+Security+Engineer;Software+%26+Infrastructure+Builder;Apeiron+%E2%80%A2+NIX+%E2%80%A2+Open+Source;BUILDING+SYSTEMS%2C+NOT+JUST+PROJECTS" alt="Typing SVG" /></a>
 
 </div>
 
@@ -20,57 +18,55 @@
 
 <div align="center">
 
-## MEDU
+## ABOUT
 
-**Independent developer building software, security tooling, automation, AI systems, and infrastructure.**
+**Independent software developer focused on AI, automation, cybersecurity, developer tooling and infrastructure.**
+
+I build complete systems from the ground up, from AI-powered automation and security platforms to developer utilities, CLI tools and Discord infrastructure.
 
 </div>
 
-<table align="center">
+<br/>
+
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-```yaml
-identity:
-  name: "Medu"
-  handle: "meduuv"
-  role: "Software & Security Developer"
+### CORE
 
-focus:
-  - Cyber Security
+```yaml
+name: Medu
+handle: meduuv
+role: AI & Software Developer
+
+specialties:
   - AI Development
   - AI Automation
+  - Cybersecurity
   - Software Engineering
+  - Infrastructure
   - Developer Tooling
   - Backend Systems
-  - Discord Infrastructure
   - Open Source
-
-stack:
-  - Python
-  - JavaScript
-  - Batch
-  - Linux
-  - Git
-  - AI / LLMs
 ```
 
 </td>
 <td width="50%" valign="top">
 
+### BUILD PHILOSOPHY
+
 ```text
-I build products and infrastructure from
-scratch, ranging from security systems and
-Discord infrastructure to developer tools,
-CLI software and AI-powered systems.
+BUILD
+→ design
+→ engineer
+→ automate
+→ secure
+→ test
+→ ship
 
-My work combines software engineering,
-automation and modern AI development with
-security-focused engineering.
-
-Some projects are public and open source.
-Others are private products currently under
-development.
+Small systems.
+Real utilities.
+Continuous improvement.
 ```
 
 </td>
@@ -81,29 +77,36 @@ development.
 
 <div align="center">
 
-## ENGINEERING
+## WHAT I BUILD
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
+
+### AI
+
+LLM applications, agents, RAG, prompt systems, model tooling, evaluation and intelligent automation.
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### AUTOMATION
+
+Workflow automation, system automation, developer utilities, bots and infrastructure operations.
+
+</td>
+<td width="25%" valign="top" align="center">
 
 ### SECURITY
 
-Security tooling, defensive automation, configuration analysis, exposure inventories, integrity monitoring, authentication analysis and infrastructure auditing.
+Defensive security tooling, auditing, monitoring, configuration analysis and infrastructure visibility.
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 ### SOFTWARE
 
-Python libraries, CLI utilities, developer tooling, data processing, validation, testing, debugging, release and dependency tooling.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### INFRASTRUCTURE
-
-Network inspection, web diagnostics, deployment tooling, operations utilities, monitoring, system tooling and automation.
+Python libraries, CLI tools, web tooling, testing systems, release tooling and backend infrastructure.
 
 </td>
 </tr>
@@ -119,48 +122,48 @@ Network inspection, web diagnostics, deployment tooling, operations utilities, m
 
 </div>
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### APEIRON
 
-**Current flagship project**
+**Current flagship**
 
-A security-focused Discord platform designed around protection, automation and infrastructure. Apeiron is the successor to earlier bot projects and represents the current direction of my Discord engineering work.
+A security-focused Discord platform built around protection, automation, moderation and infrastructure. Apeiron is the current generation of my Discord engineering work.
 
-**Status:** Active development
+`ACTIVE DEVELOPMENT`
 
 </td>
 <td width="50%" valign="top">
 
 ### NIX
 
-**Private system / active development**
+**Private AI system**
 
-A personal AI and automation system focused on computer control, tools, plugins, system interaction and a futuristic operator-style interface.
+A personal AI and automation platform focused on computer control, tools, plugins, system interaction and an operator-style interface.
 
-**Status:** Private / Active development
+`PRIVATE • ACTIVE DEVELOPMENT`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### MEDUTOOLS
+### OPEN-SOURCE TOOLING
 
-A growing collection of lightweight developer and security utilities. The ecosystem includes Python tooling, CLI utilities, static analysis, validation, diagnostics and automation projects.
+A growing ecosystem of focused security, networking, AI, web, infrastructure, CLI and developer repositories.
 
-**Status:** Open source
+`OPEN SOURCE`
 
 </td>
 <td width="50%" valign="top">
 
-### OPEN-SOURCE TOOLING
+### MEDU TOOLING ECOSYSTEM
 
-A large portfolio of focused repositories covering security, networking, web tooling, infrastructure, AI utilities, development workflows and system administration.
+Small, composable utilities designed to solve specific engineering problems without unnecessary complexity.
 
-**Status:** Continuously expanding
+`CONTINUOUSLY EXPANDING`
 
 </td>
 </tr>
@@ -170,37 +173,37 @@ A large portfolio of focused repositories covering security, networking, web too
 
 <div align="center">
 
-## PROJECT EVOLUTION
+## PROJECT HISTORY
 
 </div>
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### ZEUS
 
-One of my largest earlier Discord bot projects, built around economy, moderation, security and a large command ecosystem.
+Large Discord bot project covering economy, moderation, security and a massive command ecosystem.
 
-**Status:** Discontinued
+**DISCONTINUED**
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### KNIGHT
 
-A security-oriented Discord bot focused on AntiNuke, AntiRaid, AntiSpam and infrastructure protection.
+Security-oriented Discord bot focused on AntiNuke, AntiRaid, AntiSpam and server protection.
 
-**Status:** Discontinued
+**DISCONTINUED**
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### APEIRON
 
-The next generation of my Discord engineering work, built from the lessons and architecture gained from previous projects.
+The next generation, combining experience from previous Discord systems with a stronger architecture.
 
-**Status:** Active
+**ACTIVE**
 
 </td>
 </tr>
@@ -210,7 +213,55 @@ The next generation of my Discord engineering work, built from the lessons and a
 
 `ZEUS` → `KNIGHT` → `APEIRON`
 
-**Different generations. Same objective: build better systems.**
+**Evolution, not replacement.**
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
+## AI & AUTOMATION
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top" align="center">
+
+### AI PROFESSIONAL
+
+**Certified AI Professional** with a focus on practical AI development, intelligent systems and modern LLM workflows.
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### AI DEVELOPER
+
+Building AI applications, agents, RAG pipelines, prompt systems, model utilities and evaluation tooling.
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### AUTOMATION
+
+Turning repetitive processes into reliable software through scripts, bots, workflows and system automation.
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### AI CERTIFICATIONS
+
+Certified across modern AI technologies and platforms, including **Claude** and other AI ecosystems.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20PROFESSIONAL-CERTIFIED-000000?style=for-the-badge&labelColor=0a0a0a&color=ff2b00" />
+<img src="https://img.shields.io/badge/AI%20DEVELOPER-CERTIFIED-000000?style=for-the-badge&labelColor=0a0a0a&color=ff8c00" />
+<img src="https://img.shields.io/badge/AUTOMATION-ENGINEERING-000000?style=for-the-badge&labelColor=0a0a0a&color=ff2b00" />
+<img src="https://img.shields.io/badge/CLAUDE-AI%20CERTIFIED-000000?style=for-the-badge&labelColor=0a0a0a&color=ff8c00" />
 
 </div>
 
@@ -222,18 +273,18 @@ The next generation of my Discord engineering work, built from the lessons and a
 
 </div>
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### SECURITY & DEFENSIVE ENGINEERING
+### SECURITY
 
 `threatlens` · `vulnscope` · `auditforge` · `secwatch` · `payloadlab` · `attackmap` · `risklens` · `malwarelens` · `iocvault` · `cvewatch` · `securitylint` · `privcheck` · `accessaudit` · `authscope` · `headerguard` · `integritywatch` · `audittrail` · `sandboxkit` · `defensekit` · `exposuremap`
 
 </td>
 <td width="50%" valign="top">
 
-### PYTHON & DEVELOPER TOOLING
+### PYTHON & TOOLING
 
 `pyforge` · `pyvault` · `pyinspect` · `pytoolkit` · `pyconvert` · `pyutils` · `pyparse` · `pyformat` · `pycheck` · `pybench` · `pyprofile` · `pydiff` · `pyscan` · `pyextract` · `pystruct` · `pydataset` · `pymonitor` · `pyconfig` · `pyvalidate` · `pyreport`
 
@@ -258,14 +309,14 @@ The next generation of my Discord engineering work, built from the lessons and a
 <tr>
 <td width="50%" valign="top">
 
-### AI & INTELLIGENT SYSTEMS
+### AI & LLM
 
 `aiforge` · `ailens` · `aitoolkit` · `aiprocess` · `aiprompt` · `promptforge` · `promptscope` · `promptkit` · `modelwatch` · `modelscope` · `modelprobe` · `modelcheck` · `tokenlens` · `tokenwatch` · `contextkit` · `contextlens` · `embeddingkit` · `ragforge` · `ragkit` · `aieval` · `evalforge` · `datasetforge` · `aitrace` · `aiguard` · `localaiutils`
 
 </td>
 <td width="50%" valign="top">
 
-### WEB & APPLICATION TOOLING
+### WEB & APPLICATIONS
 
 `weblens` · `webprobe` · `webforge` · `webscopex` · `sitecheck` · `siteprobe` · `siteaudit` · `webaudit` · `webtrace` · `webmetrics` · `urlforge` · `urlscope` · `urlcheck` · `linkprobe` · `linkscope` · `pagecheck` · `pageprobe` · `webheaders` · `webstatus` · `restscope` · `apiwatch` · `apiprobe` · `apilens` · `webvalidator`
 
@@ -274,14 +325,14 @@ The next generation of my Discord engineering work, built from the lessons and a
 <tr>
 <td width="50%" valign="top">
 
-### CLI, SYSTEM & TERMINAL
+### CLI & SYSTEMS
 
 `cliforge` · `clilens` · `cliutils` · `clikit` · `termforge` · `termtools` · `termkit` · `termwatch` · `termlens` · `shellforge` · `shelltools` · `cmdscope` · `cmdkit` · `textforge` · `textscope` · `filecli` · `dirtool` · `findkit` · `grepkit` · `taskcli` · `statuscli` · `systemcli` · `datacli` · `toolboxx`
 
 </td>
 <td width="50%" valign="top">
 
-### CODE, TESTING & RELEASE ENGINEERING
+### CODE & RELEASE ENGINEERING
 
 `devforge` · `devscope` · `devkitx` · `codeforge` · `codescope` · `codetools` · `codecheck` · `codeaudit` · `codewatch` · `buildkitx` · `debugforge` · `debugscope` · `debugkit` · `testforge` · `testscope` · `testkit` · `projectlens` · `projectkit` · `releasetool` · `versionkit` · `dependencylens` · `dependencywatch` · `manifestkit` · `schemacheck` · `devmetrics`
 
@@ -291,7 +342,7 @@ The next generation of my Discord engineering work, built from the lessons and a
 
 <div align="center">
 
-**A portfolio built around many small, focused systems rather than one monolithic project.**
+**Focused repositories. One engineering ecosystem.**
 
 </div>
 
@@ -299,84 +350,26 @@ The next generation of my Discord engineering work, built from the lessons and a
 
 <div align="center">
 
-## AI • AUTOMATION • CERTIFICATIONS
-
-<table align="center" width="100%">
-<tr>
-<td width="25%" valign="top" align="center">
-
-### AI PROFESSIONAL
-
-Certified AI Professional focused on practical AI development, intelligent systems and modern LLM workflows.
-
-</td>
-<td width="25%" valign="top" align="center">
-
-### AI DEVELOPMENT
-
-Building AI-powered applications, agents, prompt systems, model tooling, RAG workflows, evaluation utilities and automation.
-
-</td>
-<td width="25%" valign="top" align="center">
-
-### AUTOMATION
-
-Designing automated workflows, developer tooling, infrastructure utilities and systems that reduce repetitive work.
-
-</td>
-<td width="25%" valign="top" align="center">
-
-### AI CERTIFICATIONS
-
-Certified across modern AI tooling and platforms, including **Claude** and other leading AI technologies.
-
-</td>
-</tr>
-</table>
+## GITHUB • OPEN SOURCE
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20PROFESSIONAL-CERTIFIED-000000?style=for-the-badge&labelColor=0a0a0a&color=ff2b00" />
-<img src="https://img.shields.io/badge/AI%20DEVELOPER-CERTIFIED-000000?style=for-the-badge&labelColor=0a0a0a&color=ff8c00" />
-<img src="https://img.shields.io/badge/AUTOMATION-ENGINEERING-000000?style=for-the-badge&labelColor=0a0a0a&color=ff2b00" />
-<img src="https://img.shields.io/badge/CLAUDE-AI%20CERTIFIED-000000?style=for-the-badge&labelColor=0a0a0a&color=ff8c00" />
-<img src="https://img.shields.io/badge/LLM%20ENGINEERING-CERTIFIED-000000?style=for-the-badge&labelColor=0a0a0a&color=ff2b00" />
+<a href="https://github.com/meduuv?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-OPEN%20SOURCE-000000?style=for-the-badge&labelColor=0a0a0a&color=ff2b00" /></a>
+<a href="https://github.com/meduuv?tab=followers"><img src="https://img.shields.io/github/followers/meduuv?style=for-the-badge&label=FOLLOWERS&labelColor=0a0a0a&color=ff8c00" /></a>
+<a href="https://github.com/meduuv"><img src="https://img.shields.io/github/stars/meduuv?style=for-the-badge&label=STARS&labelColor=0a0a0a&color=ff2b00" /></a>
 
-</div>
+<br/><br/>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meduuv&bg_color=0a0a0a&color=ff8c00&line=ff2b00&point=ffffff&area=true&hide_border=true&custom_title=MEDUUV%20ACTIVITY" width="100%" />
 
-<div align="center">
+<br/>
 
-## TERMINAL
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduuv&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff8c00&text_color=ffb37a&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=meduuv&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff8c00&icon_color=ff2b00&text_color=ffb37a&include_all_commits=true&count_private=true" width="48%" />
 
-<table>
-<tr><td>
+<br/><br/>
 
-```bash
-meduuv@core:~$ whoami
-Medu
-
-meduuv@core:~$ focus
-Software Engineering
-Cyber Security
-AI Development
-AI Automation
-Developer Tooling
-Infrastructure
-
-meduuv@core:~$ active
-Apeiron
-NIX
-Open Source Tooling
-AI Systems
-
-meduuv@core:~$ status
-BUILDING...
-```
-
-</td></tr>
-</table>
+<a href="https://github.com/meduuv"><img src="https://github-profile-trophy.vercel.app/?username=meduuv&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" /></a>
 
 </div>
 
@@ -386,7 +379,11 @@ BUILDING...
 
 ## TECH STACK
 
-<img src="https://skillicons.dev/icons?i=python,js,git,linux,github,vscode,bash,discord,md&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,git,github,linux,bash,vscode,discord,md&theme=dark" />
+
+<br/><br/>
+
+`PYTHON` · `JAVASCRIPT` · `LINUX` · `GIT` · `AI / LLM` · `AUTOMATION` · `SECURITY`
 
 </div>
 
@@ -394,15 +391,21 @@ BUILDING...
 
 <div align="center">
 
-## GITHUB
+## CURRENTLY BUILDING
 
-<img src="https://github-readme-stats.vercel.app/api?username=meduuv&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff8c00&icon_color=ff2b00&text_color=ffb37a&ring_color=ff2b00" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meduuv&theme=radical&hide_border=true&background=0a0a0a&stroke=ff2b00&ring=ff8c00&fire=ff2b00&currStreakLabel=ff8c00" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduuv&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff8c00&text_color=ffb37a" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=meduuv&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="49%" />
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   APEIRON        Discord Security & Automation      │
+│   NIX            AI & Computer Automation           │
+│   TOOLING        Open Source Developer Utilities    │
+│   SECURITY       Defensive Engineering             │
+│   AI             Agents • LLMs • Automation         │
+│                                                     │
+│                  STATUS: BUILDING                   │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -412,9 +415,9 @@ BUILDING...
 
 ## CONNECT
 
-<a href="https://guns.lol/meduu"><img src="https://img.shields.io/badge/-guns.lol%2Fmeduu-0a0a0a?style=for-the-badge&logo=linktree&logoColor=ff8c00&labelColor=0a0a0a&color=ff2b00" /></a>
-<a href="https://discord.com/users/1499746728251887650"><img src="https://img.shields.io/badge/-Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=ff8c00&labelColor=0a0a0a&color=ff2b00" /></a>
-<a href="https://github.com/meduuv"><img src="https://img.shields.io/badge/-GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ff8c00&labelColor=0a0a0a&color=ff2b00" /></a>
+<a href="https://guns.lol/meduu"><img src="https://img.shields.io/badge/guns.lol%2Fmeduu-000000?style=for-the-badge&logo=linktree&logoColor=ff8c00&labelColor=0a0a0a&color=ff2b00" /></a>
+<a href="https://github.com/meduuv"><img src="https://img.shields.io/badge/GitHub-meduuv-000000?style=for-the-badge&logo=github&logoColor=ff8c00&labelColor=0a0a0a&color=ff2b00" /></a>
+<a href="https://discord.com/users/1499746728251887650"><img src="https://img.shields.io/badge/Discord-meduuv-000000?style=for-the-badge&logo=discord&logoColor=ff8c00&labelColor=0a0a0a&color=ff2b00" /></a>
 
 <br/><br/>
 
