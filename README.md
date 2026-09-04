@@ -11,7 +11,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=FF6A00&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Medu;Software+%26+Security+Developer;Building+Systems%2C+Tools+%26+Infrastructure;Python+%E2%80%A2+JavaScript+%E2%80%A2+Batch;Apeiron+%E2%80%A2+NIX+%E2%80%A2+Open+Source;Engineering+in+Public" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=FF6A00&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Medu;Software+%26+Security+Developer;AI+Professional+%E2%80%A2+AI+Developer;Automation+Engineer+%E2%80%A2+Security+Tooling;Apeiron+%E2%80%A2+NIX+%E2%80%A2+Open+Source;Engineering+in+Public" alt="Typing SVG" />
 </a>
 
 </div>
@@ -22,7 +22,7 @@
 
 ## MEDU
 
-**Independent developer building software, security tooling, automation, and infrastructure.**
+**Independent developer building software, security tooling, automation, AI systems, and infrastructure.**
 
 </div>
 
@@ -38,9 +38,10 @@ identity:
 
 focus:
   - Cyber Security
+  - AI Development
+  - AI Automation
   - Software Engineering
   - Developer Tooling
-  - Automation
   - Backend Systems
   - Discord Infrastructure
   - Open Source
@@ -51,6 +52,7 @@ stack:
   - Batch
   - Linux
   - Git
+  - AI / LLMs
 ```
 
 </td>
@@ -62,12 +64,13 @@ scratch, ranging from security systems and
 Discord infrastructure to developer tools,
 CLI software and AI-powered systems.
 
+My work combines software engineering,
+automation and modern AI development with
+security-focused engineering.
+
 Some projects are public and open source.
 Others are private products currently under
 development.
-
-The goal is simple:
-build useful software and keep shipping.
 ```
 
 </td>
@@ -296,6 +299,55 @@ The next generation of my Discord engineering work, built from the lessons and a
 
 <div align="center">
 
+## AI • AUTOMATION • CERTIFICATIONS
+
+<table align="center" width="100%">
+<tr>
+<td width="25%" valign="top" align="center">
+
+### AI PROFESSIONAL
+
+Certified AI Professional focused on practical AI development, intelligent systems and modern LLM workflows.
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### AI DEVELOPMENT
+
+Building AI-powered applications, agents, prompt systems, model tooling, RAG workflows, evaluation utilities and automation.
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### AUTOMATION
+
+Designing automated workflows, developer tooling, infrastructure utilities and systems that reduce repetitive work.
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### AI CERTIFICATIONS
+
+Certified across modern AI tooling and platforms, including **Claude** and other leading AI technologies.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20PROFESSIONAL-CERTIFIED-000000?style=for-the-badge&labelColor=0a0a0a&color=ff2b00" />
+<img src="https://img.shields.io/badge/AI%20DEVELOPER-CERTIFIED-000000?style=for-the-badge&labelColor=0a0a0a&color=ff8c00" />
+<img src="https://img.shields.io/badge/AUTOMATION-ENGINEERING-000000?style=for-the-badge&labelColor=0a0a0a&color=ff2b00" />
+<img src="https://img.shields.io/badge/CLAUDE-AI%20CERTIFIED-000000?style=for-the-badge&labelColor=0a0a0a&color=ff8c00" />
+<img src="https://img.shields.io/badge/LLM%20ENGINEERING-CERTIFIED-000000?style=for-the-badge&labelColor=0a0a0a&color=ff2b00" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
 ## TERMINAL
 
 <table>
@@ -308,7 +360,8 @@ Medu
 meduuv@core:~$ focus
 Software Engineering
 Cyber Security
-Automation
+AI Development
+AI Automation
 Developer Tooling
 Infrastructure
 
@@ -316,6 +369,7 @@ meduuv@core:~$ active
 Apeiron
 NIX
 Open Source Tooling
+AI Systems
 
 meduuv@core:~$ status
 BUILDING...
