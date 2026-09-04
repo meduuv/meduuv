@@ -11,7 +11,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=FF6A00&center=true&vCenter=true&width=780&lines=Hey%2C+I'm+Medu;Discord+Bot+Developer;Cyber+Security+Enthusiast;Python+%E2%80%A2+Batch+%E2%80%A2+JavaScript;Founder+of+MVD;Building+Zeus;Building+Apeiron;Building+CrabWare;pip+install+crab-shell" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=FF6A00&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Medu;Software+%26+Security+Developer;Building+Systems%2C+Tools+%26+Infrastructure;Python+%E2%80%A2+JavaScript+%E2%80%A2+Batch;Apeiron+%E2%80%A2+NIX+%E2%80%A2+Open+Source;Engineering+in+Public" alt="Typing SVG" />
 </a>
 
 </div>
@@ -20,7 +20,9 @@
 
 <div align="center">
 
-## ABOUT ME
+## MEDU
+
+**Independent developer building software, security tooling, automation, and infrastructure.**
 
 </div>
 
@@ -32,42 +34,263 @@
 identity:
   name: "Medu"
   handle: "meduuv"
-  role: "Discord Bot Developer"
-  focus:
-    - Cyber Security Enthusiast
-    - Python Developer
-    - Batch Developer
-    - JavaScript Developer
-    - Git User
-    - Builder of random tools
+  role: "Software & Security Developer"
 
-specialties:
+focus:
+  - Cyber Security
+  - Software Engineering
+  - Developer Tooling
   - Automation
-  - CLI Development
-  - Backend Development
-  - Discord Infrastructure & Security
+  - Backend Systems
+  - Discord Infrastructure
+  - Open Source
+
+stack:
+  - Python
+  - JavaScript
+  - Batch
+  - Linux
+  - Git
 ```
 
 </td>
 <td width="50%" valign="top">
 
-```
-I build Discord bots, security-focused
-automation systems, and developer tooling
-under the MEDU-TOOLS brand.
+```text
+I build products and infrastructure from
+scratch, ranging from security systems and
+Discord infrastructure to developer tools,
+CLI software and AI-powered systems.
 
-Most of my work revolves around backend
-architecture, CLI utilities, and hardening
-Discord servers against nukes, raids, and
-abuse — shipped as production-ready,
-single-file, dependency-light software.
+Some projects are public and open source.
+Others are private products currently under
+development.
 
-Currently deep in Apeiron development.
+The goal is simple:
+build useful software and keep shipping.
 ```
 
 </td>
 </tr>
 </table>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
+## ENGINEERING
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### SECURITY
+
+Security tooling, defensive automation, configuration analysis, exposure inventories, integrity monitoring, authentication analysis and infrastructure auditing.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### SOFTWARE
+
+Python libraries, CLI utilities, developer tooling, data processing, validation, testing, debugging, release and dependency tooling.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### INFRASTRUCTURE
+
+Network inspection, web diagnostics, deployment tooling, operations utilities, monitoring, system tooling and automation.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
+## FLAGSHIP SYSTEMS
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### APEIRON
+
+**Current flagship project**
+
+A security-focused Discord platform designed around protection, automation and infrastructure. Apeiron is the successor to earlier bot projects and represents the current direction of my Discord engineering work.
+
+**Status:** Active development
+
+</td>
+<td width="50%" valign="top">
+
+### NIX
+
+**Private system / active development**
+
+A personal AI and automation system focused on computer control, tools, plugins, system interaction and a futuristic operator-style interface.
+
+**Status:** Private / Active development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### MEDUTOOLS
+
+A growing collection of lightweight developer and security utilities. The ecosystem includes Python tooling, CLI utilities, static analysis, validation, diagnostics and automation projects.
+
+**Status:** Open source
+
+</td>
+<td width="50%" valign="top">
+
+### OPEN-SOURCE TOOLING
+
+A large portfolio of focused repositories covering security, networking, web tooling, infrastructure, AI utilities, development workflows and system administration.
+
+**Status:** Continuously expanding
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
+## PROJECT EVOLUTION
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### ZEUS
+
+One of my largest earlier Discord bot projects, built around economy, moderation, security and a large command ecosystem.
+
+**Status:** Discontinued
+
+</td>
+<td width="33%" valign="top">
+
+### KNIGHT
+
+A security-oriented Discord bot focused on AntiNuke, AntiRaid, AntiSpam and infrastructure protection.
+
+**Status:** Discontinued
+
+</td>
+<td width="33%" valign="top">
+
+### APEIRON
+
+The next generation of my Discord engineering work, built from the lessons and architecture gained from previous projects.
+
+**Status:** Active
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`ZEUS` → `KNIGHT` → `APEIRON`
+
+**Different generations. Same objective: build better systems.**
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+<div align="center">
+
+## OPEN-SOURCE PORTFOLIO
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### SECURITY & DEFENSIVE ENGINEERING
+
+`threatlens` · `vulnscope` · `auditforge` · `secwatch` · `payloadlab` · `attackmap` · `risklens` · `malwarelens` · `iocvault` · `cvewatch` · `securitylint` · `privcheck` · `accessaudit` · `authscope` · `headerguard` · `integritywatch` · `audittrail` · `sandboxkit` · `defensekit` · `exposuremap`
+
+</td>
+<td width="50%" valign="top">
+
+### PYTHON & DEVELOPER TOOLING
+
+`pyforge` · `pyvault` · `pyinspect` · `pytoolkit` · `pyconvert` · `pyutils` · `pyparse` · `pyformat` · `pycheck` · `pybench` · `pyprofile` · `pydiff` · `pyscan` · `pyextract` · `pystruct` · `pydataset` · `pymonitor` · `pyconfig` · `pyvalidate` · `pyreport`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### NETWORK & INFRASTRUCTURE
+
+`netprobe` · `netlens` · `nettrace` · `netpulse` · `netstatx` · `netscope` · `netdiag` · `netroute` · `netresolver` · `netlookup` · `netmetrics` · `netmap` · `netcapture` · `netinspect` · `netcheck` · `netping` · `netflow` · `netwatcher` · `netmonitor` · `socketlens` · `dnswatch` · `dnsprobe` · `trafficlens` · `endpointmap`
+
+</td>
+<td width="50%" valign="top">
+
+### DEVOPS & OPERATIONS
+
+`deployforge` · `deploycheck` · `serverwatch` · `opsforge` · `opswatch` · `infralens` · `infraudit` · `configops` · `buildwatch` · `releasekit` · `releasewatch` · `pipelinekit` · `pipelinecheck` · `containerlens` · `containercheck` · `dockerscope` · `servicewatch` · `healthprobe` · `uptimekit` · `logwatcher`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI & INTELLIGENT SYSTEMS
+
+`aiforge` · `ailens` · `aitoolkit` · `aiprocess` · `aiprompt` · `promptforge` · `promptscope` · `promptkit` · `modelwatch` · `modelscope` · `modelprobe` · `modelcheck` · `tokenlens` · `tokenwatch` · `contextkit` · `contextlens` · `embeddingkit` · `ragforge` · `ragkit` · `aieval` · `evalforge` · `datasetforge` · `aitrace` · `aiguard` · `localaiutils`
+
+</td>
+<td width="50%" valign="top">
+
+### WEB & APPLICATION TOOLING
+
+`weblens` · `webprobe` · `webforge` · `webscopex` · `sitecheck` · `siteprobe` · `siteaudit` · `webaudit` · `webtrace` · `webmetrics` · `urlforge` · `urlscope` · `urlcheck` · `linkprobe` · `linkscope` · `pagecheck` · `pageprobe` · `webheaders` · `webstatus` · `restscope` · `apiwatch` · `apiprobe` · `apilens` · `webvalidator`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### CLI, SYSTEM & TERMINAL
+
+`cliforge` · `clilens` · `cliutils` · `clikit` · `termforge` · `termtools` · `termkit` · `termwatch` · `termlens` · `shellforge` · `shelltools` · `cmdscope` · `cmdkit` · `textforge` · `textscope` · `filecli` · `dirtool` · `findkit` · `grepkit` · `taskcli` · `statuscli` · `systemcli` · `datacli` · `toolboxx`
+
+</td>
+<td width="50%" valign="top">
+
+### CODE, TESTING & RELEASE ENGINEERING
+
+`devforge` · `devscope` · `devkitx` · `codeforge` · `codescope` · `codetools` · `codecheck` · `codeaudit` · `codewatch` · `buildkitx` · `debugforge` · `debugscope` · `debugkit` · `testforge` · `testscope` · `testkit` · `projectlens` · `projectkit` · `releasetool` · `versionkit` · `dependencylens` · `dependencywatch` · `manifestkit` · `schemacheck` · `devmetrics`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**A portfolio built around many small, focused systems rather than one monolithic project.**
+
+</div>
 
 <img src="./assets/divider.svg" width="100%" />
 
@@ -80,25 +303,22 @@ Currently deep in Apeiron development.
 
 ```bash
 meduuv@core:~$ whoami
+Medu
 
-Discord Bot Developer
-
-meduuv@core:~$ skills
-
-Python
-Batch
-JavaScript
+meduuv@core:~$ focus
+Software Engineering
 Cyber Security
-Git
 Automation
-CLI
-Backend
+Developer Tooling
+Infrastructure
 
-meduuv@core:~$ install
+meduuv@core:~$ active
+Apeiron
+NIX
+Open Source Tooling
 
-pip install crab-shell
-
-meduuv@core:~$ _
+meduuv@core:~$ status
+BUILDING...
 ```
 
 </td></tr>
@@ -120,7 +340,7 @@ meduuv@core:~$ _
 
 <div align="center">
 
-## GITHUB STATS
+## GITHUB
 
 <img src="https://github-readme-stats.vercel.app/api?username=meduuv&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff8c00&icon_color=ff2b00&text_color=ffb37a&ring_color=ff2b00" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meduuv&theme=radical&hide_border=true&background=0a0a0a&stroke=ff2b00&ring=ff8c00&fire=ff2b00&currStreakLabel=ff8c00" width="49%" />
@@ -128,131 +348,9 @@ meduuv@core:~$ _
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduuv&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff8c00&text_color=ffb37a" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meduuv&theme=redical&hide_border=true&bg_color=0a0a0a&color=ff8c00&line=ff2b00&point=ffffff" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=meduuv&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=meduuv&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="49%" />
 
 </div>
-
-<img src="./assets/divider.svg" width="100%" />
-
-<div align="center">
-
-## PROJECTS
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="100%">
-
-### Founder
-
-<table>
-<tr>
-<td width="100%">
-
-**MVD**
-Founding project and organization — the origin point for Medu's broader tooling and bot ecosystem.
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<table align="center" width="100%">
-<tr>
-<td width="100%">
-
-### Head Developer
-
-</td>
-</tr>
-</table>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Zeus**
-Large-scale production Discord bot with economy, moderation, and gambling systems across multiple cogs.
-
-</td>
-<td width="50%" valign="top">
-
-**Knight**
-Security-hardened Discord bot with AntiNuke, AntiRaid, and AntiSpam modules backed by PostgreSQL and Redis.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Apeiron**
-Flagship Discord security bot — 23 toggleable protection modules, autosharding, and automated raid recovery.
-
-</td>
-<td width="50%" valign="top">
-
-**MeduTools**
-Collection of published developer utilities, including static analysis and dead code removal tooling.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**CrabWare**
-Toolchain and ecosystem surrounding the CRAB line of command-line utilities.
-
-</td>
-<td width="50%" valign="top">
-
-**CrabSH**
-Published Python CLI shell — APEIRON CRAB — with subcommand completion and system utilities.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**CrabMulti**
-Multi-instance extension of the Crab tooling line for parallel and batched operations.
-
-</td>
-<td width="50%" valign="top">
-
-&nbsp;
-
-</td>
-</tr>
-</table>
-
-<table align="center" width="100%">
-<tr>
-<td width="100%">
-
-### Assistant Developer
-
-</td>
-</tr>
-</table>
-
-<table align="center" width="100%">
-<tr>
-<td width="100%">
-
-**Raeware**
-Contributing developer on the Raeware project.
-
-</td>
-</tr>
-</table>
 
 <img src="./assets/divider.svg" width="100%" />
 
