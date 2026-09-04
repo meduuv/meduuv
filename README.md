@@ -195,26 +195,14 @@ Visualization        Interactive browser experiences
 <div align="center">
 
 ### LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,cpp,c,bash,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bash,powershell&theme=dark" />
 
-### AI / DATA
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+### AI TOOLS
+`CHATGPT` · `CLAUDE` · `CLAUDE CODE` · `GEMINI` · `OTHER MODELS` · `LOCAL AI`
 
-### WEB / BACKEND
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,flask,fastapi&theme=dark" />
+<br/><br/>
 
-### DATABASES / CLOUD
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,vercel&theme=dark" />
-
-### DEVOPS / SYSTEMS
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,vscode&theme=dark" />
-
-### PLATFORMS / TOOLING
-<img src="https://skillicons.dev/icons?i=discord,cloudflare,githubactions,gitlab&theme=dark" />
-
-<br/>
-
-`PYTHON` · `JAVASCRIPT` · `TYPESCRIPT` · `JAVA` · `C/C++` · `HTML` · `CSS` · `BASH` · `LINUX` · `DOCKER` · `GIT` · `AI / LLM` · `AUTOMATION` · `SECURITY`
+`PYTHON` · `JAVASCRIPT` · `HTML` · `CSS` · `BASH` · `POWERSHELL`
 
 </div>
 
