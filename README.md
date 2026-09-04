@@ -59,24 +59,78 @@ A personal AI and automation system exploring intelligent workflows, computer co
 
 > Private projects are referenced only at a high level. Source code and implementation details remain private.
 
-## SELECTED PUBLIC WORK
+## PUBLIC REPOSITORY INDEX
 
-| Project | Area | What it demonstrates |
-| --- | --- | --- |
-| `threatlens` | Security | Threat-intelligence analysis |
-| `risklens` | Security | Risk assessment tooling |
-| `securitylint` | Security | Static configuration checks |
-| `malwarelens` | Security | Indicator classification |
-| `cvewatch` | Security | Vulnerability data filtering |
-| `dependencylens` | Tooling | Dependency inspection |
-| `dependencywatch` | Tooling | Dependency change detection |
-| `aieval` | AI | Model-output evaluation |
-| `netprobe` | Networking | Connectivity diagnostics |
-| `httptrace` | Networking | HTTP diagnostics |
-| `cipherbox` | Security | Local file encryption |
-| `solar` | Web / 3D | Interactive WebGL visualization |
+A categorized index of the newer public repositories in this portfolio.
 
-[Explore the complete public portfolio →](https://github.com/meduuv?tab=repositories)
+<details>
+<summary><b>SECURITY & CYBERSECURITY</b></summary>
+
+`threatlens` · `vulnscope` · `auditforge` · `secwatch` · `payloadlab` · `attackmap` · `risklens` · `malwarelens` · `iocvault` · `cvewatch` · `securitylint` · `privcheck` · `accessaudit` · `authscope` · `headerguard` · `integritywatch` · `audittrail` · `sandboxkit` · `defensekit` · `exposuremap`
+
+</details>
+
+<details>
+<summary><b>PYTHON & DEVELOPER UTILITIES</b></summary>
+
+`pyforge` · `pyvault` · `pyinspect` · `pytoolkit` · `pyconvert` · `pyutils` · `pyparse` · `pyformat` · `pycheck` · `pybench` · `pyprofile` · `pydiff` · `pyscan` · `pyextract` · `pystruct` · `pydataset` · `pymonitor` · `pyconfig` · `pyvalidate` · `pyreport`
+
+</details>
+
+<details>
+<summary><b>NETWORKING</b></summary>
+
+`packetlens` · `netprobe` · `netlens` · `nettrace` · `netpulse` · `netstatx` · `netscope` · `netdiag` · `netroute` · `netresolver` · `netlookup` · `netmetrics` · `netmap` · `netcapture` · `netinspect` · `netcheck` · `netping` · `netflow` · `netwatcher` · `netmonitor` · `socketlens` · `dnswatch` · `dnsprobe` · `trafficlens` · `endpointmap` · `netwatch` · `termnet` · `sockscope` · `ipintel`
+
+</details>
+
+<details>
+<summary><b>DNS / HTTP / WEB RECON</b></summary>
+
+`dnsforge` · `subscope` · `httptrace` · `weblens` · `webprobe` · `webforge` · `webscopex` · `sitecheck` · `siteprobe` · `siteaudit` · `webaudit` · `webtrace` · `webmetrics` · `urlforge` · `urlscope` · `urlcheck` · `linkprobe` · `linkscope` · `pagecheck` · `pageprobe` · `webheaders` · `webstatus` · `restscope` · `apiwatch` · `apiprobe` · `apilens` · `webvalidator` · `urlprobe`
+
+</details>
+
+<details>
+<summary><b>DEVOPS & INFRASTRUCTURE</b></summary>
+
+`deployforge` · `deploycheck` · `serverwatch` · `opsforge` · `opswatch` · `infralens` · `infraudit` · `configops` · `buildwatch` · `releasekit` · `releasewatch` · `pipelinekit` · `pipelinecheck` · `containerlens` · `containercheck` · `dockerscope` · `servicewatch` · `healthprobe` · `uptimekit` · `logwatcher`
+
+</details>
+
+<details>
+<summary><b>AI / LLM</b></summary>
+
+`aiforge` · `ailens` · `aitoolkit` · `aiprocess` · `aiprompt` · `promptforge` · `promptscope` · `promptkit` · `modelwatch` · `modelscope` · `modelprobe` · `modelcheck` · `tokenlens` · `tokenwatch` · `contextkit` · `contextlens` · `embeddingkit` · `ragforge` · `ragkit` · `aieval` · `evalforge` · `datasetforge` · `aitrace` · `aiguard` · `localaiutils`
+
+</details>
+
+<details>
+<summary><b>CLI / TERMINAL / SYSTEM</b></summary>
+
+`cliforge` · `clilens` · `cliutils` · `clikit` · `termforge` · `termtools` · `termkit` · `termwatch` · `termlens` · `shellforge` · `shelltools` · `cmdscope` · `cmdkit` · `textforge` · `textscope` · `filecli` · `dirtool` · `findkit` · `grepkit` · `taskcli` · `statuscli` · `systemcli` · `datacli` · `toolboxx` · `termui`
+
+</details>
+
+<details>
+<summary><b>CODE / TESTING / RELEASE ENGINEERING</b></summary>
+
+`devforge` · `devscope` · `devkitx` · `codeforge` · `codescope` · `codetools` · `codecheck` · `codeaudit` · `codewatch` · `buildkitx` · `debugforge` · `debugscope` · `debugkit` · `testforge` · `testscope` · `testkit` · `projectlens` · `projectkit` · `releasetool` · `versionkit` · `dependencylens` · `dependencywatch` · `manifestkit` · `schemacheck` · `devmetrics`
+
+</details>
+
+<details>
+<summary><b>STANDALONE TOOLING</b></summary>
+
+`logforge` · `secretscan` · `filewatch` · `reqforge` · `jsonscope` · `envcheck` · `cronwatch` · `sysprobe` · `apiguard` · `certwatch` · `configlint` · `processmap` · `datainspect` · `shellcheckr` · `cipherbox` · `calc`
+
+</details>
+
+<div align="center">
+
+[**VIEW ALL PUBLIC REPOSITORIES →**](https://github.com/meduuv?tab=repositories)
+
+</div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meduuv&bg_color=0a0a0a&color=ff8c00&line=ff3b00&point=ffffff&area=true&hide_border=true&custom_title=MEDUUV%20OPEN%20SOURCE%20ACTIVITY" width="100%" />
 
