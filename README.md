@@ -1,18 +1,16 @@
 <div align="center">
 
-# MEDU
-
-### AI Professional · AI Developer · Automation Developer · Cybersecurity
-
-**AI · AUTOMATION · SECURITY · TOOLING**
-
-Building practical AI systems, automation workflows, security tooling and developer utilities.
+<img src="./assets/header.svg" width="100%" />
 
 <br/>
 
 <a href="https://guns.lol/meduu"><img src="https://img.shields.io/badge/WEBSITE-guns.lol%2Fmeduu-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ff3b00" /></a>
 <a href="https://github.com/meduuv?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-OPEN%20SOURCE-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ff8c00" /></a>
 <a href="https://discord.com/users/1499746728251887650"><img src="https://img.shields.io/badge/DISCORD-MEDU-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ff3b00" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&width=850&lines=AI+PROFESSIONAL+%2F+AI+DEVELOPER;AUTOMATION+DEVELOPER+%2F+CYBERSECURITY;BUILDING+TOOLS%2C+SYSTEMS+%26+WORKFLOWS;PRIVATE+R%26D+%2B+OPEN+SOURCE;BUILDING+SYSTEMS%2C+NOT+JUST+PROJECTS" alt="Typing header" />
 
 </div>
 
@@ -121,6 +119,8 @@ The projects below represent the kinds of problems I explore in public:
 
 [Explore the complete public portfolio →](https://github.com/meduuv?tab=repositories)
 
+<img src="./assets/divider.svg" width="100%" />
+
 ## AI DEVELOPMENT
 
 ```text
@@ -187,14 +187,14 @@ REMEDIATE
 My public repositories span:
 
 ```text
-AI / LLM            Agents · RAG · Evaluation · Model tooling
+AI / LLM             Agents · RAG · Evaluation · Model tooling
 Security             Auditing · Monitoring · Defensive analysis
-Networking            DNS · HTTP · Diagnostics · Visibility
-Developer tooling     Python · CLI · Testing · Code utilities
-Infrastructure        Deployment · Health · Operations
-Web tooling            HTTP · APIs · URLs · Validation
-Automation             Workflows · Integrations · Utilities
-Visualization          Interactive browser experiences
+Networking           DNS · HTTP · Diagnostics · Visibility
+Developer tooling    Python · CLI · Testing · Code utilities
+Infrastructure       Deployment · Health · Operations
+Web tooling          HTTP · APIs · URLs · Validation
+Automation            Workflows · Integrations · Utilities
+Visualization         Interactive browser experiences
 ```
 
 The portfolio is broad by design. Small projects let me explore specific technical problems, learn quickly and turn useful ideas into reusable tools.
@@ -203,9 +203,11 @@ The portfolio is broad by design. Small projects let me explore specific technic
 
 ```text
 ZEUS
-  ↓
+  │
+  ▼
 KNIGHT
-  ↓
+  │
+  ▼
 APEIRON
 
 iteration → experience → stronger systems
@@ -235,21 +237,27 @@ SHIP
 ITERATE
 ```
 
-## GITHUB
+<img src="./assets/divider.svg" width="100%" />
+
+## GITHUB ACTIVITY
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meduuv&bg_color=0a0a0a&color=ff8c00&line=ff3b00&point=ffffff&area=true&hide_border=true&custom_title=MEDUUV%20OPEN%20SOURCE%20ACTIVITY" width="100%" />
+
+<br/>
 
 <a href="https://github.com/meduuv?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-VIEW%20ALL-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ff3b00" /></a>
 <a href="https://github.com/meduuv?tab=followers"><img src="https://img.shields.io/github/followers/meduuv?style=for-the-badge&label=FOLLOWERS&labelColor=0a0a0a&color=ff8c00" /></a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meduuv&bg_color=0a0a0a&color=ff8c00&line=ff3b00&point=ffffff&area=true&hide_border=true&custom_title=MEDUUV%20OPEN%20SOURCE%20ACTIVITY" width="100%" />
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=meduuv&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff8c00&icon_color=ff3b00&text_color=ffb37a&include_all_commits=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduuv&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff8c00&text_color=ffb37a&langs_count=8" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=meduuv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%" />
 
 </div>
 
@@ -267,13 +275,14 @@ ITERATE
 
 ## CURRENT FOCUS
 
-```text
-AI             Practical AI systems and intelligent workflows
-AUTOMATION     Turning repetitive processes into reliable workflows
-SECURITY       Defensive visibility and analysis tooling
-OPEN SOURCE    Useful utilities and reusable developer tools
-PRIVATE R&D    Larger systems that are intentionally not public
-```
+<div align="center">
+
+| AI | AUTOMATION | SECURITY | OPEN SOURCE | PRIVATE R&D |
+|:---:|:---:|:---:|:---:|:---:|
+| Practical AI systems | Reliable workflows | Defensive tooling | Reusable utilities | Larger systems |
+| Agents & evaluation | Bots & integrations | Visibility & analysis | Developer tools | Intentional privacy |
+
+</div>
 
 ## CONNECT
 
@@ -287,11 +296,9 @@ PRIVATE R&D    Larger systems that are intentionally not public
 
 <img src="https://komarev.com/ghpvc/?username=meduuv&style=for-the-badge&color=ff3b00&label=PROFILE+VIEWS" />
 
-</div>
+<br/><br/>
 
-<img src="./assets/divider.svg" width="100%" />
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:ff1f00,50:ff8c00,100:ff1f00" width="100%" />
 
 ### BUILD · AUTOMATE · SECURE · IMPROVE
 
