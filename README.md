@@ -179,6 +179,43 @@ Visualization        Interactive browser experiences
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meduuv&bg_color=050505&color=ff9a00&line=ff3b00&point=ffffff&area=true&hide_border=true&custom_title=OPEN%20SOURCE%20ACTIVITY" width="100%" />
 <br/><br/>
+
+### LIVE GITHUB METRICS
+
+<a href="https://github.com/meduuv?tab=followers"><img src="https://img.shields.io/github/followers/meduuv?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=ff3b00" /></a>
+<a href="https://github.com/meduuv?tab=following"><img src="https://img.shields.io/github/following/meduuv?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWING&color=ff8c00" /></a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmeduuv&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&logoColor=white&color=ff3b00" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmeduuv&query=%24.public_gists&label=PUBLIC%20GISTS&style=for-the-badge&logo=github&logoColor=white&color=ff8c00" />
+<img src="https://img.shields.io/github/stars/meduuv?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=REPOSITORY%20STARS&color=ff3b00" />
+<br/>
+<a href="https://github.com/meduuv?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-0a0a0a?style=for-the-badge&logo=github&logoColor=white&color=ff8c00" /></a>
+<a href="https://github.com/meduuv?tab=projects"><img src="https://img.shields.io/badge/GITHUB-PROJECTS-0a0a0a?style=for-the-badge&logo=github&logoColor=white&color=ff3b00" /></a>
+<a href="https://github.com/meduuv?tab=packages"><img src="https://img.shields.io/badge/GITHUB-PACKAGES-0a0a0a?style=for-the-badge&logo=github&logoColor=white&color=ff8c00" /></a>
+<a href="https://github.com/meduuv?tab=stars"><img src="https://img.shields.io/badge/GITHUB-STARRED-0a0a0a?style=for-the-badge&logo=github&logoColor=white&color=ff3b00" /></a>
+<br/><br/>
+
+### PROFILE REPOSITORY
+
+<a href="https://github.com/meduuv/meduuv"><img src="https://img.shields.io/github/stars/meduuv/meduuv?style=for-the-badge&logo=github&label=PROFILE%20STARS&color=ff8c00" /></a>
+<a href="https://github.com/meduuv/meduuv/network/members"><img src="https://img.shields.io/github/forks/meduuv/meduuv?style=for-the-badge&logo=github&label=FORKS&color=ff3b00" /></a>
+<img src="https://img.shields.io/github/watchers/meduuv/meduuv?style=for-the-badge&logo=github&label=WATCHERS&color=ff8c00" />
+<img src="https://img.shields.io/github/repo-size/meduuv/meduuv?style=for-the-badge&logo=github&label=REPO%20SIZE&color=ff3b00" />
+<br/>
+<img src="https://img.shields.io/github/languages/count/meduuv/meduuv?style=for-the-badge&logo=github&label=LANGUAGES&color=ff8c00" />
+<img src="https://img.shields.io/github/languages/top/meduuv/meduuv?style=for-the-badge&logo=github&label=TOP%20LANGUAGE&color=ff3b00" />
+<img src="https://img.shields.io/github/last-commit/meduuv/meduuv?style=for-the-badge&logo=github&label=LAST%20COMMIT&color=ff8c00" />
+<img src="https://img.shields.io/github/commit-activity/y/meduuv/meduuv?style=for-the-badge&logo=github&label=COMMITS%2FYEAR&color=ff3b00" />
+<br/>
+<img src="https://img.shields.io/github/license/meduuv/meduuv?style=for-the-badge&logo=github&label=LICENSE&color=ff8c00" />
+
+<br/><br/>
+
+### CONTRIBUTION SIGNALS
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253Ameduuv%2520is%253Apr&query=%24.total_count&label=AUTHORED%20PULL%20REQUESTS&style=for-the-badge&logo=github&logoColor=white&color=ff8c00" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253Ameduuv%2520is%253Apr%2520is%253Amerged&query=%24.total_count&label=MERGED%20PULL%20REQUESTS&style=for-the-badge&logo=github&logoColor=white&color=ff3b00" />
+
+<br/><br/>
 <a href="https://github.com/meduuv?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-VIEW%20ALL-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ff3b00" /></a>
 <a href="https://github.com/meduuv?tab=followers"><img src="https://img.shields.io/badge/FOLLOWERS-OPEN-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=ff8c00" /></a>
 <br/><br/>
