@@ -4,7 +4,9 @@
 
 ### AI Professional · AI Developer · Automation Developer · Cybersecurity
 
-Building AI systems, automation, security tooling and practical software.
+**AI · AUTOMATION · SECURITY · TOOLING**
+
+Building practical AI systems, automation workflows, security tooling and developer utilities.
 
 <br/>
 
@@ -16,17 +18,18 @@ Building AI systems, automation, security tooling and practical software.
 
 <img src="./assets/divider.svg" width="100%" />
 
-## PROFILE
+## ABOUT
 
-I am an independent **AI professional and developer** focused on turning ideas into working systems.
+I am an independent **AI professional and developer** focused on turning ideas into practical, working systems.
 
-My work sits at the intersection of **AI, automation, cybersecurity, developer tooling and infrastructure**. I build both focused open-source utilities and larger private systems that explore how software can become more capable, automated and reliable.
+My work sits across **artificial intelligence, automation, cybersecurity, developer tooling and infrastructure**. My public portfolio contains focused utilities and experiments, while larger systems are developed privately.
 
-I care about practical results: a tool should solve a problem, an automation should save time, and a system should be understandable enough to maintain and improve.
+I care about a simple outcome: **make useful things, make them understandable, automate what can be automated, and keep security in the design.**
 
 ```yaml
 name: Medu
 handle: meduuv
+role: AI Professional / Developer
 focus:
   - Artificial Intelligence
   - AI Development
@@ -36,15 +39,15 @@ focus:
   - Infrastructure
   - Open Source
 
-approach:
-  - Build
-  - Test
-  - Secure
-  - Automate
-  - Improve
+principles:
+  - Practicality
+  - Automation
+  - Security
+  - Clarity
+  - Iteration
 ```
 
-## WHAT I WORK ON
+## CORE AREAS
 
 <table width="100%">
 <tr>
@@ -52,21 +55,21 @@ approach:
 
 ### AI
 
-LLM applications, AI agents, RAG workflows, model tooling, evaluation, prompt systems and intelligent automation.
+LLM applications, AI workflows, agents, RAG, evaluation, prompt systems, model tooling and local AI experimentation.
 
 </td>
 <td width="25%" valign="top">
 
 ### AUTOMATION
 
-Bots, workflows, system automation, repetitive-task elimination and operational tooling.
+Bots, integrations, workflows, system automation and repetitive-task elimination.
 
 </td>
 <td width="25%" valign="top">
 
 ### SECURITY
 
-Defensive security tooling, auditing, monitoring, configuration analysis and security automation.
+Defensive analysis, auditing, monitoring, configuration checks, integrity and security automation.
 
 </td>
 <td width="25%" valign="top">
@@ -79,63 +82,79 @@ Python utilities, CLI applications, networking tools, web tooling, testing and r
 </tr>
 </table>
 
-## SELECTED WORK
+## PRIVATE SYSTEMS
+
+Some of my largest projects are intentionally private and are not part of the public source portfolio.
 
 ### APEIRON
 
 **Private · Active Development**
 
-A large-scale Discord platform focused on security, automation, moderation and infrastructure. It represents the current generation of my Discord development work.
-
-> Source code is private.
+A Discord platform focused on security, automation, moderation, economy and infrastructure.
 
 ### NIX
 
 **Private · Active Development**
 
-A personal AI and automation system exploring computer control, tools, plugins, system interaction and operator-style workflows.
+A personal AI and automation system exploring intelligent workflows, computer control, tools, plugins and system interaction.
 
-> Source code is private.
+> Private projects are referenced only at a high level. Source code and implementation details remain private.
 
-### OPEN-SOURCE TOOLING
+## SELECTED PUBLIC WORK
 
-A growing collection of focused projects across AI, cybersecurity, networking, web tooling, infrastructure, CLI development and Python utilities.
+The projects below represent the kinds of problems I explore in public:
 
-The goal is not to build the same application repeatedly. It is to create **small, useful components that solve specific problems well**.
+| Project | Area | What it demonstrates |
+| --- | --- | --- |
+| `threatlens` | Security | Threat-intelligence analysis |
+| `risklens` | Security | Risk assessment tooling |
+| `securitylint` | Security | Static configuration checks |
+| `malwarelens` | Security | Indicator classification |
+| `cvewatch` | Security | Vulnerability data filtering |
+| `dependencylens` | Tooling | Dependency inspection |
+| `dependencywatch` | Tooling | Dependency change detection |
+| `aieval` | AI | Model-output evaluation |
+| `netprobe` | Networking | Connectivity diagnostics |
+| `httptrace` | Networking | HTTP diagnostics |
+| `cipherbox` | Security | Local file encryption |
+| `solar` | Web / 3D | Interactive WebGL visualization |
 
-## AI & AUTOMATION
+[Explore the complete public portfolio →](https://github.com/meduuv?tab=repositories)
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## AI DEVELOPMENT
 
-### AI DEVELOPMENT
+```text
+LLMs
+ ├── Applications
+ ├── Agents
+ ├── Tool use
+ ├── RAG
+ ├── Evaluation
+ ├── Prompt systems
+ └── Local models
+```
 
-- AI application development
-- LLM workflows
-- Agents and tool use
-- RAG systems
-- Prompt engineering
-- Model evaluation
-- Local AI experimentation
-- AI-assisted automation
+I focus on using AI as part of a larger workflow rather than treating an API call as the entire application.
 
-</td>
-<td width="50%" valign="top">
+## AUTOMATION
 
-### AUTOMATION
+```text
+manual process
+      ↓
+understand the workflow
+      ↓
+remove repetition
+      ↓
+connect APIs / tools
+      ↓
+automate
+      ↓
+monitor
+      ↓
+improve
+```
 
-- Workflow automation
-- Bots and integrations
-- System automation
-- Developer utilities
-- Monitoring and operations
-- API-driven workflows
-- Repetitive task elimination
-
-</td>
-</tr>
-</table>
+This includes bots, integrations, developer utilities, operational workflows and system-level automation.
 
 ## CERTIFICATIONS
 
@@ -143,38 +162,42 @@ The goal is not to build the same application repeatedly. It is to create **smal
 
 Additional AI certifications and training across modern AI platforms and technologies, including **Claude** and other AI ecosystems.
 
-> Certifications complement the portfolio. The projects are the primary evidence of practical work.
+> Certifications support the portfolio. Practical work remains the primary evidence of capability.
 
-## OPEN-SOURCE
+## SECURITY
 
-My public repositories span several areas:
+My public security work is intentionally defensive and focused on **visibility, analysis, auditing and repeatable workflows**.
 
 ```text
-AI / LLM              Agents · RAG · Evaluation · Model tooling
-Cybersecurity         Auditing · Monitoring · Defensive utilities
-Networking             Diagnostics · DNS · HTTP · Network visibility
-Developer tooling      CLI · Python · Code analysis · Testing
-Infrastructure         Deployment · Health checks · Operations
-Web tooling             HTTP · URLs · APIs · Validation
-Automation              Utilities · Workflows · System helpers
+COLLECT
+   ↓
+NORMALIZE
+   ↓
+ANALYZE
+   ↓
+IDENTIFY
+   ↓
+REPORT
+   ↓
+REMEDIATE
 ```
 
-### A FEW PROJECTS
+## OPEN SOURCE
 
-- `risklens` · security risk analysis
-- `dependencylens` · dependency analysis
-- `dependencywatch` · dependency monitoring
-- `versionkit` · version and release utilities
-- `manifestkit` · project manifest tooling
-- `schemacheck` · schema validation
-- `devmetrics` · developer metrics
-- `aieval` · AI evaluation tooling
-- `localaiutils` · local AI utilities
-- `netprobe` · network diagnostics
-- `httptrace` · HTTP inspection and tracing
-- `cipherbox` · cryptographic utility tooling
+My public repositories span:
 
-[Explore all repositories →](https://github.com/meduuv?tab=repositories)
+```text
+AI / LLM            Agents · RAG · Evaluation · Model tooling
+Security             Auditing · Monitoring · Defensive analysis
+Networking            DNS · HTTP · Diagnostics · Visibility
+Developer tooling     Python · CLI · Testing · Code utilities
+Infrastructure        Deployment · Health · Operations
+Web tooling            HTTP · APIs · URLs · Validation
+Automation             Workflows · Integrations · Utilities
+Visualization          Interactive browser experiences
+```
+
+The portfolio is broad by design. Small projects let me explore specific technical problems, learn quickly and turn useful ideas into reusable tools.
 
 ## PROJECT EVOLUTION
 
@@ -185,21 +208,21 @@ KNIGHT
   ↓
 APEIRON
 
-Experience → iteration → stronger systems
+iteration → experience → stronger systems
 ```
 
-Earlier Discord projects such as **Zeus** and **Knight** helped shape the architecture, security thinking and feature design behind later work.
+Earlier Discord projects such as **Zeus** and **Knight** helped shape the ideas, security thinking and feature design behind later work.
 
-## ENGINEERING HABITS
-
-I approach projects with a simple loop:
+## BUILD LOOP
 
 ```text
 IDEA
  ↓
+UNDERSTAND
+ ↓
 DESIGN
  ↓
-IMPLEMENT
+BUILD
  ↓
 TEST
  ↓
@@ -211,8 +234,6 @@ SHIP
  ↓
 ITERATE
 ```
-
-The objective is not simply to make something run. It is to make it **useful, understandable, testable and maintainable**.
 
 ## GITHUB
 
@@ -227,7 +248,7 @@ The objective is not simply to make something run. It is to make it **useful, un
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=meduuv&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff8c00&icon_color=ff3b00&text_color=ffb37a&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=meduuv&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff8c00&icon_color=ff3b00&text_color=ffb37a&include_all_commits=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduuv&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ff8c00&text_color=ffb37a&langs_count=8" width="49%" />
 
 </div>
@@ -247,11 +268,11 @@ The objective is not simply to make something run. It is to make it **useful, un
 ## CURRENT FOCUS
 
 ```text
-AI             Building practical AI systems and intelligent workflows
-AUTOMATION     Making complex/repetitive processes programmable
-SECURITY       Creating defensive visibility and analysis tooling
-OPEN SOURCE    Publishing focused utilities and reusable developer tools
-PRIVATE R&D    Exploring larger systems that are not intended for public release
+AI             Practical AI systems and intelligent workflows
+AUTOMATION     Turning repetitive processes into reliable workflows
+SECURITY       Defensive visibility and analysis tooling
+OPEN SOURCE    Useful utilities and reusable developer tools
+PRIVATE R&D    Larger systems that are intentionally not public
 ```
 
 ## CONNECT
@@ -272,6 +293,6 @@ PRIVATE R&D    Exploring larger systems that are not intended for public release
 
 <div align="center">
 
-### BUILD. AUTOMATE. SECURE. IMPROVE.
+### BUILD · AUTOMATE · SECURE · IMPROVE
 
 </div>
