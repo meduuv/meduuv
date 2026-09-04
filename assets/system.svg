@@ -1,0 +1,20 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#ff2600"/><stop offset=".5" stop-color="#ff9a00"/><stop offset="1" stop-color="#ff2600"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="180" rx="14" fill="#050505" stroke="#2a1208"/>
+<g font-family="monospace" fill="#888" font-size="13">
+<text x="28" y="32">MEDUUV // SYSTEM STATUS</text><text x="1000" y="32">LIVE</text>
+</g>
+<g stroke="#ff5a00" stroke-opacity=".12"><path d="M28 48H1172M28 86H1172M28 124H1172M28 162H1172"/></g>
+<g font-family="monospace" font-size="12" fill="#aaa">
+<text x="28" y="70">AI</text><text x="28" y="108">AUTOMATION</text><text x="28" y="146">SECURITY</text>
+</g>
+<g stroke="url(#g)" stroke-width="5" stroke-linecap="round" filter="url(#glow)">
+<path d="M125 66H430"><animate attributeName="d" values="M125 66H430;M125 66H650;M125 66H430" dur="4s" repeatCount="indefinite"/></path>
+<path d="M125 104H760"><animate attributeName="d" values="M125 104H760;M125 104H510;M125 104H760" dur="3.2s" repeatCount="indefinite"/></path>
+<path d="M125 142H570"><animate attributeName="d" values="M125 142H570;M125 142H900;M125 142H570" dur="4.8s" repeatCount="indefinite"/></path>
+</g>
+<g fill="#ff8c00" filter="url(#glow)"><circle cx="1150" cy="66" r="3"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle><circle cx="1150" cy="104" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="1.5s" repeatCount="indefinite"/></circle><circle cx="1150" cy="142" r="3"><animate attributeName="opacity" values="1;.2;1" dur=".9s" repeatCount="indefinite"/></circle></g>
+</svg>
